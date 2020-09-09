@@ -14,4 +14,4 @@ const deepClone = items => {
   return items
 }
 
-module.exports.deepClone = deepClone
+module.exports = deepClone

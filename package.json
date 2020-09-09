@@ -1,6 +1,6 @@
 {
   "name": "javascript-deepclone",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Javascript code to execute deep cloning on Objects and Array of Objects",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/Cyrusrome22/DeepClone.git"
   },
-  "keywords": ["Javascript", "Deep", "Clone", "Objects", "Array"],
+  "keywords": [
+    "Javascript",
+    "Deep",
+    "Clone",
+    "Objects",
+    "Array",
+    "Deep Clone",
+    "Clone Objects",
+    "Clone Array of objects"
+  ],
   "author": "Cyrus",
   "license": "ISC",
   "bugs": {
