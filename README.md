@@ -4,7 +4,7 @@ Javascript code to execute deep cloning on Objects and Array of Objects
 
 # Installation
 
-`npm i deepclone --save`
+`npm i javascript-deepclone`
 
 Example...
 
