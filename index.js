@@ -1,4 +1,6 @@
 const deepClone = items => {
+  if (items === null) return null
+  if (items === undefined) return undefined
   if (Array.isArray(items) && !items.length) return []
   if (typeof items === 'object' && !Object.keys(items).length) return {}
   if (Array.isArray(items)) {
